@@ -1,0 +1,69 @@
+#body {
+    background-image: linear-gradient(black, white);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 71vh;
+
+    
+}
+
+/* .back { */
+    /* background-image: linear-gradient(yellow, white,black); */
+    /* height: 71.5vh; */
+    /* width: max-content; */
+/* } */
+
+.lad {
+    color: red;
+    box-shadow: rosybrown;
+    text-align: center;
+    padding: 2vh;
+    font-family:Verdana;
+}
+
+#HH {
+    position: absolute;
+    top: 20vh;
+    left: 85vh;
+    font-family: 'Trebuchet MS';
+    color: blue;
+    text-decoration-color: turquoise;
+}
+
+#userScore {
+    background-color: whitesmoke;
+    border-radius: 2vh;
+    border-color: chocolate;
+    position: absolute;
+    left: 85vh;
+    top: 30vh;
+    padding: 4vh;
+    color: red;
+}
+
+.but {
+    position: absolute;
+    border-color: chartreuse;
+    border-width: .5vh;
+    border-radius: 2vh;
+    top: 45vh;
+    left: 91vh;
+    font-family: sans-serif;
+    color: black
+}
+
+.cl {
+    position: absolute;
+    border-color: purple;
+    border-width: .5vh;
+    border-radius: 1vh;
+    height: 5vh;
+    width: 20vh;
+    top: 61vh;
+    left: 90vh;
+    font-family: sans-serif;
+    color: black
+}
+#divGuy {
+    color: tomato;
+}
